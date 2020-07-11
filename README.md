@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/img/mona-whisper.gif" alt="Hi" />
+<div align="center"><img src="../assets/img/mona-whisper.gif" alt="Hi" />
 <h1>Hi there 👋</h1>
 </div>
 
