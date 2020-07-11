@@ -1,4 +1,9 @@
-### Hi there 👋
+### <div align="center"> Hi there 👋 </div>
+
+- 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-marcfreir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-freir/)](https://www.linkedin.com/in/marc-freir/)
+[![Youtube Badge](https://img.shields.io/badge/-Fibily%20Wizy-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCs425SuaGgC7QzYktQP9__Q)](https://www.youtube.com/channel/UCs425SuaGgC7QzYktQP9__Q)
 
 <!--
 **marcfreir/marcfreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+> * LinkedIn: [https://www.linkedin.com/in/marc-freir/](https://www.linkedin.com/in/marc-freir/)
 -->
