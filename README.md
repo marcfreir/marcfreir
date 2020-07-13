@@ -17,7 +17,6 @@
 <a href="https://www.facebook.com/fibilywizy/"><img src="https://img.shields.io/badge/-Fibily%20Wizy-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/fibilywizy/" alt="https://www.facebook.com/fibilywizy/" /></a>
 <!--GitHub-->
 <a href="https://marcfreir.github.io"><img src="https://img.shields.io/badge/-Fibily%20Wizy-black?style=flat-square&logo=Github&logoColor=white&link=https://marcfreir.github.io" alt="https://marcfreir.github.io" /></a>
-</div>
 <!--Telegram-->
 <a href="https://t.me/quarksdev"><img src="https://img.shields.io/badge/-Quarks%20Dev-6200e1?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/quarksdev" alt="https://t.me/quarksdev" /></a>
 </div>
