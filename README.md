@@ -2,7 +2,7 @@
 <h1>Hi there 👋</h1>
 </div>
 
-<div align="center"><p>I'm a full stack developer.</p><p>Here is how you can reach me:</p></div>
+<div align="center"><p>I'm a full-stack developer, and I'm always learning a new thing.</p><p>Here is how you can reach me:</p></div>
 
 <div align="center">
 <!--LinkedIn-->
