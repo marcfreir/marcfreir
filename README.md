@@ -8,8 +8,10 @@
 <div align="center">
 <!--LinkedIn-->
 <a href="https://www.linkedin.com/in/marc-freir/"><img src="https://img.shields.io/badge/-marcfreir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-freir/" alt="https://www.linkedin.com/in/marc-freir/" /></a>
-<!--Youtube-->
+<!--Youtube Fibily Wizy-->
 <a href="https://www.youtube.com/channel/UCs425SuaGgC7QzYktQP9__Q"><img src="https://img.shields.io/badge/-Fibily%20Wizy-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCs425SuaGgC7QzYktQP9__Q" alt="https://www.youtube.com/channel/UCs425SuaGgC7QzYktQP9__Q" /></a>
+<!--Youtube Marc Freir-->
+<a href="https://www.youtube.com/channel/UCs9H632lefMkhX9v1FJotCg"><img src="https://img.shields.io/badge/-Marc%20Freir-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCs9H632lefMkhX9v1FJotCg" alt="https://www.youtube.com/channel/UCs9H632lefMkhX9v1FJotCg" /></a>
 <!--BeHance-->
 <a href="https://www.behance.net/marcfreir"><img src="https://img.shields.io/badge/-marcfreir-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/marcfreir" alt="https://www.behance.net/marcfreir" /></a>
 <!--Dribbble-->
