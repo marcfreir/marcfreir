@@ -3,7 +3,7 @@
 <p>Motto: <i>To err is human; to edit, divine; and to code, sublime. - Timmy Nee</i></p>
 </div>
 
-<div align="center"><h3>I'm a full-stack developer, and I'm always learning a new thing.</h3><p>Here is how you can reach me:</p></div>
+<div align="center"><!--<h3>I'm a full-stack developer, and I'm always learning a new thing.</h3>--><p>Here is how you can reach me:</p></div>
 
 <div align="center">
 <!--LinkedIn-->
