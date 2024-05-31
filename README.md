@@ -1,6 +1,8 @@
 <div align="center"><img src="https://github.com/marcfreir/marcfreir/blob/master/assets/img/mona-whisper.gif" alt="Hi" />
 <h1>Hi there 👋</h1>
-<p>Motto: <i>To err is human; to edit, divine; and to code, sublime. - Timmy Nee</i></p>
+<p>Motto 1: <i>👯To err is human; to edit, divine; and to code, sublime. - Timmy Nee</i></p>
+<p>Motto 2: <i>🔭Make every day a hackathon: code, solve a problem, eat good food. - Me, thinking at Discovery Lab</i></p>
+<p>Motto 3: <i>⚡ Bootstrap yourself!. - Me, thinking when I was struggling with Machine Learning and reading the BYOL paper</i></p>
 </div>
 
 <div align="center"><!--<h3>I'm a full-stack developer, and I'm always learning a new thing.</h3>--><p>Here is how you can reach me:</p></div>
